@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Programming\\DevOps\\BRM_LAB\\Experiment_3\\mycalc\\target\\mycalc-1.0-SNAPSHOT.jar"
+    ]
+}
